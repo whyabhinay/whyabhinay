@@ -7,7 +7,7 @@ I'm passionate about working at the intersection of **data and strategy**. My pr
 > I am on a constant journey to learn and make an impact through incisive analytics insights that drive productivity and innovation.
 
 - 👋 Hi, I’m @whyabhinay
-- 👀 I’m a data professional interested in building multi-disciplinary expertise across Industries including Web3
+- 👀 I’m a data professional with multi-disciplinary expertise across Industries such as Insurance, Finance, Marketing & Supply Chain along with Web3
 - 💬 Ask me about data modeling, data ingestion, exploratory data analysis, data visualization, predictive & prescriptive modeling, causal analytics, natural language processing, web Scraping, cloud infrastructure.
 - 🌱 I’m currently working on analysing and building financial models on Credit Bureau Data
 - 💞️ I’m passionate to work on Web3 Analytics projects
