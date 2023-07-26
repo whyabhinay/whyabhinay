@@ -11,7 +11,7 @@ I'm passionate about working at the intersection of **data and strategy**. My pr
 - 💬 Ask me about data modeling, data ingestion, exploratory data analysis, data visualization, predictive & prescriptive modeling, causal analytics, natural language processing, web Scraping, cloud infrastructure.
 - 🌱 I’m currently working on analysing and building financial models on Credit Bureau Data
 - 💞️ I’m passionate to work on Web3 Analytics projects
-- 📫 You can reach me [here](linkedin.com/in/abhinayyarlagadda/)
+- 📫 You can reach me [here](https://www.linkedin.com/in/abhinayyarlagadda/)
 
 <!---
 whyabhinay/whyabhinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
