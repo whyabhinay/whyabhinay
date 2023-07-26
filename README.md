@@ -2,7 +2,7 @@ Hola! I have a Master's degree in Business Analytics (Finance concentration) fro
 
 My expertise is in **asking the right questions** to stakeholders using which I map the business process flows and data flows. I find these skills to be extremely important for the success of any analytics project. **I can wear multiple hats as a Business Analyst, Data Engineer, Data Analyst and Data Scientist.**
 
-I'm passionate about working at the intersection of data and strategy. My previous experience constitutes optimising business processes and refining business strategy using data driven decision making. Furthermore, I have successfully initiated and led multiple data analytics projects in my previous roles.
+I'm passionate about working at the intersection of **data and strategy**. My previous experience constitutes optimising business processes and refining business strategy using data driven decision making. Furthermore, I have successfully initiated and led multiple data analytics projects in my previous roles.
 
 > I am on a constant journey to learn and make an impact through incisive analytics insights that drive productivity and innovation.
 
